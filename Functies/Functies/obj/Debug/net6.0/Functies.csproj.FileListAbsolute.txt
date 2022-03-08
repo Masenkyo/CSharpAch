@@ -1,0 +1,15 @@
+C:\Users\kimen\source\repos\Functies\Functies\bin\Debug\net6.0\Functies.exe
+C:\Users\kimen\source\repos\Functies\Functies\bin\Debug\net6.0\Functies.deps.json
+C:\Users\kimen\source\repos\Functies\Functies\bin\Debug\net6.0\Functies.runtimeconfig.json
+C:\Users\kimen\source\repos\Functies\Functies\bin\Debug\net6.0\Functies.dll
+C:\Users\kimen\source\repos\Functies\Functies\bin\Debug\net6.0\Functies.pdb
+C:\Users\kimen\source\repos\Functies\Functies\obj\Debug\net6.0\Functies.csproj.AssemblyReference.cache
+C:\Users\kimen\source\repos\Functies\Functies\obj\Debug\net6.0\Functies.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kimen\source\repos\Functies\Functies\obj\Debug\net6.0\Functies.AssemblyInfoInputs.cache
+C:\Users\kimen\source\repos\Functies\Functies\obj\Debug\net6.0\Functies.AssemblyInfo.cs
+C:\Users\kimen\source\repos\Functies\Functies\obj\Debug\net6.0\Functies.csproj.CoreCompileInputs.cache
+C:\Users\kimen\source\repos\Functies\Functies\obj\Debug\net6.0\Functies.dll
+C:\Users\kimen\source\repos\Functies\Functies\obj\Debug\net6.0\refint\Functies.dll
+C:\Users\kimen\source\repos\Functies\Functies\obj\Debug\net6.0\Functies.pdb
+C:\Users\kimen\source\repos\Functies\Functies\obj\Debug\net6.0\Functies.genruntimeconfig.cache
+C:\Users\kimen\source\repos\Functies\Functies\obj\Debug\net6.0\ref\Functies.dll

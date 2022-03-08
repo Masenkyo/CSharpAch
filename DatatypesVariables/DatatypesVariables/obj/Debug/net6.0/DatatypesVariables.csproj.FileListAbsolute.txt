@@ -1,0 +1,15 @@
+C:\Users\kimen\source\repos\DatatypesVariables\DatatypesVariables\bin\Debug\net6.0\DatatypesVariables.exe
+C:\Users\kimen\source\repos\DatatypesVariables\DatatypesVariables\bin\Debug\net6.0\DatatypesVariables.deps.json
+C:\Users\kimen\source\repos\DatatypesVariables\DatatypesVariables\bin\Debug\net6.0\DatatypesVariables.runtimeconfig.json
+C:\Users\kimen\source\repos\DatatypesVariables\DatatypesVariables\bin\Debug\net6.0\DatatypesVariables.dll
+C:\Users\kimen\source\repos\DatatypesVariables\DatatypesVariables\bin\Debug\net6.0\DatatypesVariables.pdb
+C:\Users\kimen\source\repos\DatatypesVariables\DatatypesVariables\obj\Debug\net6.0\DatatypesVariables.csproj.AssemblyReference.cache
+C:\Users\kimen\source\repos\DatatypesVariables\DatatypesVariables\obj\Debug\net6.0\DatatypesVariables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kimen\source\repos\DatatypesVariables\DatatypesVariables\obj\Debug\net6.0\DatatypesVariables.AssemblyInfoInputs.cache
+C:\Users\kimen\source\repos\DatatypesVariables\DatatypesVariables\obj\Debug\net6.0\DatatypesVariables.AssemblyInfo.cs
+C:\Users\kimen\source\repos\DatatypesVariables\DatatypesVariables\obj\Debug\net6.0\DatatypesVariables.csproj.CoreCompileInputs.cache
+C:\Users\kimen\source\repos\DatatypesVariables\DatatypesVariables\obj\Debug\net6.0\DatatypesVariables.dll
+C:\Users\kimen\source\repos\DatatypesVariables\DatatypesVariables\obj\Debug\net6.0\refint\DatatypesVariables.dll
+C:\Users\kimen\source\repos\DatatypesVariables\DatatypesVariables\obj\Debug\net6.0\DatatypesVariables.pdb
+C:\Users\kimen\source\repos\DatatypesVariables\DatatypesVariables\obj\Debug\net6.0\DatatypesVariables.genruntimeconfig.cache
+C:\Users\kimen\source\repos\DatatypesVariables\DatatypesVariables\obj\Debug\net6.0\ref\DatatypesVariables.dll
