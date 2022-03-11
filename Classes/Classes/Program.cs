@@ -7,10 +7,10 @@ namespace Calculator
         static void Main(string[] args)
         {
 
-            int Number1;
-            int Number2;
+            float Number1;
+            float Number2;
             string Calculation;
-            int Antwoord;
+            float Antwoord;
 
             Console.WriteLine("Calculator");
             Console.Write("Eerste nummer : ");
