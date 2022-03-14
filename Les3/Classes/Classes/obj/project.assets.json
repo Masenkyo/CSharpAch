@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kimen\\source\\repos\\Classes\\Classes\\Classes.csproj",
+      "projectUniqueName": "C:\\Users\\kimen\\source\\repos\\Les3\\Classes\\Classes\\Classes.csproj",
       "projectName": "Classes",
-      "projectPath": "C:\\Users\\kimen\\source\\repos\\Classes\\Classes\\Classes.csproj",
+      "projectPath": "C:\\Users\\kimen\\source\\repos\\Les3\\Classes\\Classes\\Classes.csproj",
       "packagesPath": "C:\\Users\\kimen\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kimen\\source\\repos\\Classes\\Classes\\obj\\",
+      "outputPath": "C:\\Users\\kimen\\source\\repos\\Les3\\Classes\\Classes\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\kimen\\AppData\\Roaming\\NuGet\\NuGet.Config",

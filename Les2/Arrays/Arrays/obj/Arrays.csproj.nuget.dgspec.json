@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kimen\\source\\repos\\Arrays\\Arrays\\Arrays.csproj": {}
+    "C:\\Users\\kimen\\source\\repos\\Les2\\Arrays\\Arrays\\Arrays.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kimen\\source\\repos\\Arrays\\Arrays\\Arrays.csproj": {
+    "C:\\Users\\kimen\\source\\repos\\Les2\\Arrays\\Arrays\\Arrays.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kimen\\source\\repos\\Arrays\\Arrays\\Arrays.csproj",
+        "projectUniqueName": "C:\\Users\\kimen\\source\\repos\\Les2\\Arrays\\Arrays\\Arrays.csproj",
         "projectName": "Arrays",
-        "projectPath": "C:\\Users\\kimen\\source\\repos\\Arrays\\Arrays\\Arrays.csproj",
+        "projectPath": "C:\\Users\\kimen\\source\\repos\\Les2\\Arrays\\Arrays\\Arrays.csproj",
         "packagesPath": "C:\\Users\\kimen\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kimen\\source\\repos\\Arrays\\Arrays\\obj\\",
+        "outputPath": "C:\\Users\\kimen\\source\\repos\\Les2\\Arrays\\Arrays\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kimen\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,59 +1,27 @@
 ﻿using System;
 
-namespace Calculator
+namespace Classes
 {
-    class Rekenmachine
+    class Program
     {
         static void Main(string[] args)
         {
 
-            float Number1;
-            float Number2;
-            string Calculation;
-            float Antwoord;
+            float Number1 = 1;
+            float Number2 = 2;
 
-            Console.WriteLine("Calculator");
-            Console.Write("Eerste nummer : ");
-            Number1 = Convert.ToInt32(Console.ReadLine());
+            Rekenmachine rekenmachine = new Rekenmachine();
+            rekenmachine.Keer(Number1, Number2);
+            rekenmachine.Delen(Number1, Number2);
+            rekenmachine.Plus(Number1, Number2);
+            rekenmachine.Min(Number1, Number2);
 
-            //User input for equation
-            Console.Write("Tweede nummer : ");
-            Number2 = Convert.ToInt32(Console.ReadLine());
-            Console.Write("Type berekening : ( x , : , +, -) ");
-            Calculation = Console.ReadLine();
+            Console.WriteLine(Number1 + " x " + Number2 + " = " + rekenmachine.Keer(Number1, Number2));
+            Console.WriteLine(Number1 + " / " + Number2 + " = " + rekenmachine.Delen(Number1, Number2));
+            Console.WriteLine(Number1 + " + " + Number2 + " = " + rekenmachine.Plus(Number1, Number2));
+            Console.WriteLine(Number1 + " - " + Number2 + " = " + rekenmachine.Min(Number1, Number2));
 
-            if (Calculation == "x")
-            {
-                Antwoord = Number1 * Number2;
-                Console.WriteLine(Number1 + " x " + Number2 + " = " + Antwoord);
-                Console.ReadLine();
-            }
-            else if (Calculation == ":")
-            {
-                Antwoord = Number1 / Number2;
-                Console.WriteLine(Number1 + " / " + Number2 + " = " + Antwoord);
-                Console.ReadLine();
-            }
-            //Getting answers
-            else if (Calculation == "+")
-            {
-                Antwoord = Number1 + Number2;
-                Console.WriteLine(Number1 + " + " + Number2 + " = " + Antwoord);
-                Console.ReadLine();
-            }
-            else if (Calculation == "-")
-            {
-                Antwoord = Number1 - Number2;
-                Console.WriteLine(Number1 + " - " + Number2 + " = " + Antwoord);
-                Console.ReadLine();
-            }
-            else
-            {
-                Console.WriteLine("Dat kan niet");
-                Console.Write("Type berekening : ( x , : , +, -) ");
-                Calculation = Console.ReadLine();
-                Console.ReadLine();
-            }
+
         }
     }
 }
