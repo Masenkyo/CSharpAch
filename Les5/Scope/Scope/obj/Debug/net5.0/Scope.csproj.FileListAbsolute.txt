@@ -1,0 +1,16 @@
+C:\Users\kimen\source\repos\Scope\Scope\bin\Debug\net5.0\Scope.exe
+C:\Users\kimen\source\repos\Scope\Scope\bin\Debug\net5.0\Scope.deps.json
+C:\Users\kimen\source\repos\Scope\Scope\bin\Debug\net5.0\Scope.runtimeconfig.json
+C:\Users\kimen\source\repos\Scope\Scope\bin\Debug\net5.0\Scope.runtimeconfig.dev.json
+C:\Users\kimen\source\repos\Scope\Scope\bin\Debug\net5.0\Scope.dll
+C:\Users\kimen\source\repos\Scope\Scope\bin\Debug\net5.0\Scope.pdb
+C:\Users\kimen\source\repos\Scope\Scope\obj\Debug\net5.0\Scope.csproj.AssemblyReference.cache
+C:\Users\kimen\source\repos\Scope\Scope\obj\Debug\net5.0\Scope.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kimen\source\repos\Scope\Scope\obj\Debug\net5.0\Scope.AssemblyInfoInputs.cache
+C:\Users\kimen\source\repos\Scope\Scope\obj\Debug\net5.0\Scope.AssemblyInfo.cs
+C:\Users\kimen\source\repos\Scope\Scope\obj\Debug\net5.0\Scope.csproj.CoreCompileInputs.cache
+C:\Users\kimen\source\repos\Scope\Scope\obj\Debug\net5.0\Scope.dll
+C:\Users\kimen\source\repos\Scope\Scope\obj\Debug\net5.0\refint\Scope.dll
+C:\Users\kimen\source\repos\Scope\Scope\obj\Debug\net5.0\Scope.pdb
+C:\Users\kimen\source\repos\Scope\Scope\obj\Debug\net5.0\Scope.genruntimeconfig.cache
+C:\Users\kimen\source\repos\Scope\Scope\obj\Debug\net5.0\ref\Scope.dll
