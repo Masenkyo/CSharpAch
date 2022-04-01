@@ -6,33 +6,32 @@ namespace Switch_Cases
     {
         static void Main(string[] args)
         {
-            while (true)
+            string input = Console.ReadLine();
+            int number = 0;
+            try
             {
-                Console.Write("Input: ");
-                string input = Console.ReadLine();
-
-                if (int.TryParse(input, out int Getal))
+                number = Int32.Parse(input);
+                switch (number)
                 {
-                    switch (Getal)
-                    {
-                        case 0:
-                            Console.WriteLine("Je hebt een 0 ingevoerd");
-                            break;
-                        case 1:
-                            Console.WriteLine("Je hebt een 1 ingevoerd");
-                            break;
-                        default:
-                            Console.WriteLine("Dit is de default case baka: " + Getal);
-                            break;
-                    }
+                    case 69:
+                        Console.WriteLine("69 Nice, dit is een grappig getal :]");
+                        Console.ReadLine();
+                        return;
+                    case 420:
+                        Console.WriteLine("420 Nice, dit is wel een goed getal.");
+                        Console.ReadLine();
+                        return;
+                    default:
+                        Console.WriteLine("Je hebt het getal " + number + " ingevoerd o.o");
+                        Console.ReadLine();
+                        return;
                 }
-                else
-                {
-                    Console.WriteLine("Voer een nummer in niet symbolen of letters doepie");
-                }
-
-                Console.WriteLine("");
             }
+            catch
+            {
+                Console.WriteLine("Geen Getal");
+            }
+            Console.Read();
         }
     }
 }

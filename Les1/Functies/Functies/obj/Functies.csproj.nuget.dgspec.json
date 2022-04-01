@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kimen\\source\\repos\\Functies\\Functies\\Functies.csproj": {}
+    "C:\\Users\\kimen\\source\\repos\\Les1\\Functies\\Functies\\Functies.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kimen\\source\\repos\\Functies\\Functies\\Functies.csproj": {
+    "C:\\Users\\kimen\\source\\repos\\Les1\\Functies\\Functies\\Functies.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kimen\\source\\repos\\Functies\\Functies\\Functies.csproj",
+        "projectUniqueName": "C:\\Users\\kimen\\source\\repos\\Les1\\Functies\\Functies\\Functies.csproj",
         "projectName": "Functies",
-        "projectPath": "C:\\Users\\kimen\\source\\repos\\Functies\\Functies\\Functies.csproj",
+        "projectPath": "C:\\Users\\kimen\\source\\repos\\Les1\\Functies\\Functies\\Functies.csproj",
         "packagesPath": "C:\\Users\\kimen\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kimen\\source\\repos\\Functies\\Functies\\obj\\",
+        "outputPath": "C:\\Users\\kimen\\source\\repos\\Les1\\Functies\\Functies\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kimen\\AppData\\Roaming\\NuGet\\NuGet.Config",

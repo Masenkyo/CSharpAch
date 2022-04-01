@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kimen\\source\\repos\\Scope\\Scope\\Scope.csproj",
+      "projectUniqueName": "C:\\Users\\kimen\\source\\repos\\Les5\\Scope\\Scope\\Scope.csproj",
       "projectName": "Scope",
-      "projectPath": "C:\\Users\\kimen\\source\\repos\\Scope\\Scope\\Scope.csproj",
+      "projectPath": "C:\\Users\\kimen\\source\\repos\\Les5\\Scope\\Scope\\Scope.csproj",
       "packagesPath": "C:\\Users\\kimen\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kimen\\source\\repos\\Scope\\Scope\\obj\\",
+      "outputPath": "C:\\Users\\kimen\\source\\repos\\Les5\\Scope\\Scope\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\kimen\\AppData\\Roaming\\NuGet\\NuGet.Config",

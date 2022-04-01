@@ -6,11 +6,15 @@ namespace Scope
     {
         static void Main(string[] args)
         {
-            for (int i = 0; i < args.Length; i++);
+            Scope();
+        }
+        static void Scope()
+        {
+            for (int i = 0; i < 100; i++) ;
             {
                 if (true)
                 {
-                    
+
                 }
             }
         }

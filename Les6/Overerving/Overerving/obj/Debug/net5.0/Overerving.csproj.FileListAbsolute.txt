@@ -1,0 +1,16 @@
+C:\Users\kimen\source\repos\Overerving\Overerving\obj\Debug\net5.0\Overerving.csproj.AssemblyReference.cache
+C:\Users\kimen\source\repos\Overerving\Overerving\obj\Debug\net5.0\Overerving.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kimen\source\repos\Overerving\Overerving\obj\Debug\net5.0\Overerving.AssemblyInfoInputs.cache
+C:\Users\kimen\source\repos\Overerving\Overerving\obj\Debug\net5.0\Overerving.AssemblyInfo.cs
+C:\Users\kimen\source\repos\Overerving\Overerving\obj\Debug\net5.0\Overerving.csproj.CoreCompileInputs.cache
+C:\Users\kimen\source\repos\Overerving\Overerving\bin\Debug\net5.0\Overerving.exe
+C:\Users\kimen\source\repos\Overerving\Overerving\bin\Debug\net5.0\Overerving.deps.json
+C:\Users\kimen\source\repos\Overerving\Overerving\bin\Debug\net5.0\Overerving.runtimeconfig.json
+C:\Users\kimen\source\repos\Overerving\Overerving\bin\Debug\net5.0\Overerving.runtimeconfig.dev.json
+C:\Users\kimen\source\repos\Overerving\Overerving\bin\Debug\net5.0\Overerving.dll
+C:\Users\kimen\source\repos\Overerving\Overerving\bin\Debug\net5.0\Overerving.pdb
+C:\Users\kimen\source\repos\Overerving\Overerving\obj\Debug\net5.0\Overerving.dll
+C:\Users\kimen\source\repos\Overerving\Overerving\obj\Debug\net5.0\refint\Overerving.dll
+C:\Users\kimen\source\repos\Overerving\Overerving\obj\Debug\net5.0\Overerving.pdb
+C:\Users\kimen\source\repos\Overerving\Overerving\obj\Debug\net5.0\Overerving.genruntimeconfig.cache
+C:\Users\kimen\source\repos\Overerving\Overerving\obj\Debug\net5.0\ref\Overerving.dll

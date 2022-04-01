@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kimen\\source\\repos\\SwitchCases\\SwitchCases\\SwitchCases.csproj",
+      "projectUniqueName": "C:\\Users\\kimen\\source\\repos\\Les3\\SwitchCases\\SwitchCases\\SwitchCases.csproj",
       "projectName": "SwitchCases",
-      "projectPath": "C:\\Users\\kimen\\source\\repos\\SwitchCases\\SwitchCases\\SwitchCases.csproj",
+      "projectPath": "C:\\Users\\kimen\\source\\repos\\Les3\\SwitchCases\\SwitchCases\\SwitchCases.csproj",
       "packagesPath": "C:\\Users\\kimen\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kimen\\source\\repos\\SwitchCases\\SwitchCases\\obj\\",
+      "outputPath": "C:\\Users\\kimen\\source\\repos\\Les3\\SwitchCases\\SwitchCases\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\kimen\\AppData\\Roaming\\NuGet\\NuGet.Config",
